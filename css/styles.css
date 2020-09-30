@@ -1,0 +1,35 @@
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to right, black, indigo, black);
+    color: white;
+    margin: 0; 
+}
+
+.navbar {
+    background-color: black;   
+}
+
+.site-footer {
+    background-image: linear-gradient(indigo, black);
+    padding: 20px 0; 
+    color: white;
+}
+
+#link {
+    color: white;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5); 
+}
+  
+.carousel {
+    border: solid indigo; 
+}
+  
+#carouselButton {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    z-index: 100; 
+}
